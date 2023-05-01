@@ -12,7 +12,7 @@
   "name": "723948",
   "description": null,
   "version": "0.0.0",
-  "homepage": "https://github.com/SherYang17/tic-tac-toe",
+  "homepage": "https://sheryang17.github.io/tic-tac-toe/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
